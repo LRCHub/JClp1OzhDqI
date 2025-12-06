@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "マイノリティ脈絡",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-06T14:24:54.873960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_マイノリティ脈絡_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_マイノリティ脈絡_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_マイノリティ脈絡_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡 (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_マイノリティ脈絡_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡 - Minority Myakuraku",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_マイノリティ脈絡_-_Minority_Myakuraku_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡 - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_マイノリティ脈絡_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マイノリティ脈絡",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_マイノリティ脈絡_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マイノリティ脈絡",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_マイノリティ脈絡_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "マイノリティ脈絡",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_マイノリティ脈絡_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
